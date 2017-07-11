@@ -62,4 +62,13 @@ Stephen Gary Wozniak, est cofondateur de la société Apple Computer. Né le 11 
 
 https://fr.wikipedia.org/wiki/Steve_Wozniak
 
-#
+# D'où vient l'expression "bug informatique" ?
+
+Cette expression viens de Grace Hopper, en 1945, des insectes (bugs) s'indroduisaient dans les machines.
+Dans un journal de bord tenu par Grace Hopper, elle fais allusions au "Bugs being found" 
+bug dans l'ordinateur.
+Depuis lexpression est toujours utiliser "bogue" en français.
+
+https://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/
+
+# 
