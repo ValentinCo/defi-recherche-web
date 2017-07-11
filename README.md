@@ -35,3 +35,7 @@ utilisation ou modification, de rester libre.
 
 https://fr.wikipedia.org/wiki/Copyright
 https://www.gnu.org/licenses/copyleft.fr.html
+
+# Que sont les Creatives Commons ?
+
+Les licences Creative Commons sont un ensemble de licenses permetants de régire les conditions de réutilisation et de distribution d'oeuvres. Elaborées par Creative Comons, elles on été publiées le 16 décembre 2002.
