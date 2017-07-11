@@ -39,3 +39,9 @@ https://www.gnu.org/licenses/copyleft.fr.html
 # Que sont les Creatives Commons ?
 
 Les licences Creative Commons sont un ensemble de licenses permetants de régire les conditions de réutilisation et de distribution d'oeuvres. Elaborées par Creative Comons, elles on été publiées le 16 décembre 2002.
+
+https://fr.wikipedia.org/wiki/Licence_Creative_Commons
+
+# Qui est Grace Hopper ?
+
+Grace Murray Hopper est une informaticienne et  Rear admiral de la marine américaine
