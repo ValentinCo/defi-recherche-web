@@ -22,3 +22,16 @@ https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/
 255.255.255.0
 127.0.0.1
 
+Il s'agit de différentes adresse IP, Une adresse IP (Internet Protocol) est un numéro qui identifie les ordinateurs connecté à Internet.  Il existe différent type d' IP.
+
+http://www.mon-ip.com/definition-adresse-ip.php
+
+# Que sont le copyright et le copyleft ?
+
+Un copyright est un droit exclusif accordé au créateur d'une œuvre littéraire, musicale, audiovisuelle ou artistique qui lui confère le droit exclusif de reproduire et de distribuer cette œuvre.
+
+Un copyleft est une manière de rendre libre un programme (ou toute autre œuvre) et d'obliger aprés toutes
+utilisation ou modification, de rester libre.
+
+https://fr.wikipedia.org/wiki/Copyright
+https://www.gnu.org/licenses/copyleft.fr.html
