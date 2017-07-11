@@ -44,4 +44,16 @@ https://fr.wikipedia.org/wiki/Licence_Creative_Commons
 
 # Qui est Grace Hopper ?
 
-Grace Murray Hopper est une informaticienne et  Rear admiral de la marine américaine
+Grace Murray Hopper est une informaticienne et  Rear admiral de la marine américaine. Elle est la concéptrice du langage COBOL et de A-0 System le premier compilateur en 1959.
+
+https://fr.wikipedia.org/wiki/Grace_Hopper
+
+# Qu'est-ce que Qwant ?
+
+Qwant est un moteur de recherche, il propose un service ne trassant pas ses utilisateurs. Afin de garantir
+la vie privée et se veu neutre dans l'affichage des informations
+version définitive sortie le 4 juillet 2013.
+
+https://fr.wikipedia.org/wiki/Qwant
+
+#
