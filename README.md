@@ -56,4 +56,10 @@ version définitive sortie le 4 juillet 2013.
 
 https://fr.wikipedia.org/wiki/Qwant
 
+# Qui est Steve Wozniak ?
+
+Stephen Gary Wozniak, est cofondateur de la société Apple Computer. Né le 11 aout 1950 à San José, il est l'un des pioniers de l'industrie micro-informatique.
+
+https://fr.wikipedia.org/wiki/Steve_Wozniak
+
 #
